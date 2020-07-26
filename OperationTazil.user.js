@@ -2,14 +2,14 @@
 // @name         Operation Tazil
 // @homepage     https://boxcuttersbc.com
 // @run-at       document-start
-// @version      0.1.4
+// @version      0.1.5
 // @updateURL    https://github.com/SirQuackly/OperationTazilDev/raw/master/OperationTazil.user.js
 // @downloadURL  https://github.com/SirQuackly/OperationTazilDev/raw/master/OperationTazil.user.js
 // @iconURL      https://github.com/SirQuackly/OperationTazilDev/raw/master/OperationTazilSmall.png
 // @icon64URL    https://github.com/SirQuackly/OperationTazilDev/raw/master/OperationTazil.png
 // @supportURL   https://discord.gg/H8Xtufh
 // @description  Operation Tazil is here!
-// @author       p1, keffen, Aurorus, ShadowFalcon
+// @author       p1, keffen, Aurorus, ShadowFalcon and Storm
 // @match        https://boxcritters.com/play/
 // @match        https://boxcritters.com/play/?*
 // @match        https://boxcritters.com/play/#*
@@ -44,7 +44,7 @@ And, most importantly, have fun!
 
 Operation Tazil is an *unofficial* fan project of Box Cutters, a fan Discord server of the game Box Critters by Lance Priebe aka. RocketSnail.
 However, Operation Tazil was created with permission from RocketSnail.
-It is brought to you by Aurorus (artwork), p1 (programming), keffen (programming), and ShadowFalcon (story), with additional music created by Storm and Simmonds2000.
+It is brought to you by Aurorus (artwork), p1 (programming), keffen (programming), ShadowFalcon (story) and Storm (music), with additional music created by Simmonds2000.
 
 To get access to leaderboards for the game and additional benefits for playing Operation Tazil, and to talk to the creators, copy and paste the following invite link into your browser:
 --> https://discord.gg/H8Xtufh <--
